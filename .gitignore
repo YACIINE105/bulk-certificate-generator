@@ -4,3 +4,6 @@ __pycache__/
 .ruff_cache/
 data/
 .codex-remote-attachments/
+applications/
+tmp/
+output/
