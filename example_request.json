@@ -1,0 +1,10 @@
+{
+  "title": "Certificate of Completion",
+  "course": "Python Basics",
+  "issuer": "Aereo Academy",
+  "issued_on": "2026-10-07",
+  "recipients": [
+    {"name": "Alice", "email": "alice@example.com"},
+    {"name": "Bob", "email": "bob@example.com"}
+  ]
+}
